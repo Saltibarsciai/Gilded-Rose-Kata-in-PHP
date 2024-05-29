@@ -5,6 +5,7 @@ namespace App;
 class GildedRose
 {
     public $name;
+
     public $quality;
     public $sellIn;
 
